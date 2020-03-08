@@ -18,11 +18,6 @@ class App extends Component {
               path="/"
               component={Home}
             />
-
-            <Route
-              path='/services'
-              component={Services}
-            />
           </PageWrapper>
         </Router>
       </div>

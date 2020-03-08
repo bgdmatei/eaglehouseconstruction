@@ -9,8 +9,8 @@ import img5 from '../assets/services/plumber.png';
 import img6 from '../assets/services/handyman.png';
 
 const services = [
-  {title: 'Log cabin construction', description: 'Hey', icon: img1},
-  {title: 'Fencing', description: 'yo', icon: img2},
+  {title: 'Log cabin construction', description: '', icon: img1},
+  {title: 'Fencing', description: '', icon: img2},
   {title: 'Bricklayer', description: '', icon: img3},
   {title: 'Painting & Decorating Services', description: '', icon: img4},
   {title: 'Plumbing and heating service', description: '', icon: img5},
