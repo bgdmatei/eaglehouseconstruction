@@ -26,7 +26,7 @@ class PageWrapper extends Component {
                     <Scroll className="nav-link js-scroll-trigger" smooth={true} to="about" >About</Scroll>
                   </li>
                   <li className="nav-item">
-                    <Scroll className="nav-link js-scroll-trigger" smooth={true} to="portfolio" >Gallery</Scroll>
+                    <Scroll className="nav-link js-scroll-trigger" smooth={true} to="gallery" >Gallery</Scroll>
                   </li>
                   <li className="nav-item">
                     <Scroll className="nav-link js-scroll-trigger" smooth={true} to="contact" >Contact</Scroll>

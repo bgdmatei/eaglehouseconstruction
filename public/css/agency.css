@@ -41,6 +41,11 @@ h6 {
   width:200px;
 }
 
+.img-gallery {
+  max-width: 100%;
+  height: auto;
+}
+
 .logo {
   height: 70px;
   width: 70px;
@@ -104,13 +109,13 @@ img::-moz-selection {
 }
 
 .btn-primary {
-  background-color: #fed136;
-  border-color: #fed136;
+  background-color: #FC6767;
+  border-color: #FC6767;
 }
 
 .btn-primary:active, .btn-primary:focus, .btn-primary:hover {
-  background-color: #fec810 !important;
-  border-color: #fec810 !important;
+  background-color: #fa4e4e !important;
+  border-color: #fa4e4e !important;
   color: white;
 }
 
