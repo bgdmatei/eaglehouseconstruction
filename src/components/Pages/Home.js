@@ -6,6 +6,7 @@ import image from '../assets/img/banner.jpg';
 import Services from '../Common/Services';
 import About from '../Pages/About'
 import Gallery from '../Pages/Gallery';
+import Feedback from '../Pages/Feedback';
 
 class Home extends Component {
   render() {
@@ -22,6 +23,7 @@ class Home extends Component {
         <Services />
         <About />
         <Gallery />
+        <Feedback />
       </div>
       )
   }

@@ -6,7 +6,7 @@
 
 body {
   overflow-x: hidden;
-  font-family: 'Roboto Slab', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
+  font-family: 'Abril Fatface', cursive;
 }
 
 p {
@@ -49,6 +49,10 @@ h6 {
 .logo {
   height: 70px;
   width: 70px;
+}
+
+.fa-star {
+  color: gold;
 }
 
 .page-section {
@@ -125,7 +129,6 @@ img::-moz-selection {
 
 #mainNav {
   background-color: #212529;
-  box-shadow: 0 0 5px rgba(0,0,0,0.2);
 }
 
 #mainNav .navbar-toggler {
@@ -140,12 +143,12 @@ img::-moz-selection {
 }
 
 #mainNav .navbar-brand {
-  color: #FC6767;
-  font-family: 'Kaushan Script', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
+  color: #7F1E12;
+  font-family: 'Abril Fatface', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
 }
 
 #mainNav .navbar-brand.active, #mainNav .navbar-brand:active, #mainNav .navbar-brand:focus, #mainNav .navbar-brand:hover {
-  color: #FC6767;
+
 }
 
 #mainNav .navbar-nav .nav-item .nav-link {
@@ -158,7 +161,7 @@ img::-moz-selection {
 }
 
 #mainNav .navbar-nav .nav-item .nav-link.active, #mainNav .navbar-nav .nav-item .nav-link:hover {
-  color: #FC6767;
+  color: #7F1E12;
 }
 
 @media (min-width: 992px) {
@@ -255,7 +258,6 @@ header.masthead .intro-text .intro-heading {
   display: block;
   max-width: 400px;
   margin: 0 auto;
-  cursor: pointer;
 }
 
 #portfolio .portfolio-item .portfolio-link .portfolio-hover {
@@ -357,7 +359,7 @@ header.masthead .intro-text .intro-heading {
 }
 
 .portfolio-modal .modal-content button {
-  cursor: pointer;
+
 }
 
 .portfolio-modal .close-modal {
@@ -366,7 +368,7 @@ header.masthead .intro-text .intro-heading {
   right: 25px;
   width: 75px;
   height: 75px;
-  cursor: pointer;
+
   background-color: transparent;
 }
 
@@ -460,7 +462,7 @@ header.masthead .intro-text .intro-heading {
   color: white;
   border: 7px solid #e9ecef;
   border-radius: 100%;
-  background-color: #fed136;
+  background-color: #7F1E12;
 }
 
 .timeline > li .timeline-image h4 {

@@ -5,7 +5,6 @@ import {BrowserRouter as Router, Route, Link} from 'react-router-dom';
 
 //Pages
 import Home from './components/Pages/Home';
-import Services from './components/Common/Services';
 
 class App extends Component {
   render() {

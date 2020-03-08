@@ -2,7 +2,7 @@ import React, {Component} from 'react';
 
 import work1 from '../assets/about/bath.jpg';
 import work2 from '../assets/about/fence.jpg';
-import logo from '../assets/about/logo.jpg';
+import logo from '../assets/about/logo.png';
 import work3 from '../assets/about/paint.jpg';
 
 class About extends Component {
@@ -14,7 +14,8 @@ class About extends Component {
               <div className="row">
                 <div className="col-lg-12 text-center">
                   <h2 className="section-heading text-uppercase">About</h2>
-                  <h3 className="section-subheading text-muted">Learn more about out how it all started.</h3>
+                  <h3 className="section-subheading text-muted">
+                    </h3>
                 </div>
               </div>
               <div className="row">
@@ -27,10 +28,10 @@ class About extends Component {
                       <div className="timeline-panel">
                         <div className="timeline-heading">
                           <h4>June 2019</h4>
-                          <h4 className="subheading">Our Humble Beginnings</h4>
+                          <h4 className="subheading">Complete bathroom tiling</h4>
                         </div>
                         <div className="timeline-body">
-                          <p className="text-muted">Our first job was a full bathroom retiling</p>
+                          <p className="text-muted">An honest worker with attention to detail who priorities the clients' needs and delivers upon the agreed timelines.</p>
                         </div>
                       </div>
                     </li>
@@ -41,10 +42,10 @@ class About extends Component {
                       <div className="timeline-panel">
                         <div className="timeline-heading">
                           <h4>September 2019</h4>
-                          <h4 className="subheading">Our second job</h4>
+                          <h4 className="subheading">Fencing job</h4>
                         </div>
                         <div className="timeline-body">
-                          <p className="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p>
+                          <p className="text-muted">The jobs completed are expected to be of the highest standards such as full building, plumbing and heating services, Plastering, Tiling, Kitchen/Bathroom Fitting </p>
                         </div>
                       </div>
                     </li>
@@ -58,7 +59,8 @@ class About extends Component {
                           <h4 className="subheading">Transition to Full Service</h4>
                         </div>
                         <div className="timeline-body">
-                          <p className="text-muted">We decided to open our own company but also expanding out service list!</p>
+                          <p className="text-muted">A reliable contractor with 25 years of experience within the construction industry.
+                    Available for small and larger projects as well offering free quotation services.</p>
                         </div>
                       </div>
                     </li>
@@ -69,10 +71,10 @@ class About extends Component {
                       <div className="timeline-panel">
                         <div className="timeline-heading">
                           <h4>January 2020</h4>
-                          <h4 className="subheading">Paint</h4>
+                          <h4 className="subheading">Paint job</h4>
                         </div>
                         <div className="timeline-body">
-                          <p className="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p>
+                          <p className="text-muted">Please see the images and feedback's  of several completed works.</p>
                         </div>
                       </div>
                     </li>
