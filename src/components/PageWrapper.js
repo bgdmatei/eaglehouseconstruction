@@ -1,6 +1,5 @@
 import React, {Component} from 'react';
 import {Link as Scroll} from 'react-scroll';
-import {Link} from 'react-router-dom';
 
 import logo from './assets/about/logo.png';
 
