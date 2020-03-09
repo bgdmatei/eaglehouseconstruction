@@ -177,6 +177,7 @@ img::-moz-selection {
 }
 
 #mainNav .navbar-nav .nav-item .nav-link {
+  text-transform: capitalize;
   font-size: 90%;
   font-weight: 400;
   padding: 0.75em 0;
