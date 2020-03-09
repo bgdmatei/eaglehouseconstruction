@@ -10,7 +10,7 @@ class PageWrapper extends Component {
   render() {
     return(
         <div>
-          <nav className="navbar navbar-expand-lg navbar-dark " id="mainNav" >
+          <nav className="navbar navbar-expand-lg navbar-dark fixed-top" id="mainNav" >
             <div className="container">
               <img className="logo" src={logo} alt=""/>&nbsp;&nbsp;&nbsp;&nbsp;
               <Scroll className="navbar-brand js-scroll-trigger" smooth={true} to="root">Eagle House Construction</Scroll>

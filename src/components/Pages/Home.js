@@ -18,7 +18,7 @@ class Home extends Component {
             subtitle1="Welcome to "
             subtitle2="Eagle House Construction"
             buttonText="Get a free quote"
-            link="/contact"
+            link="contact"
             showButton={true}
             image={image}
           />
