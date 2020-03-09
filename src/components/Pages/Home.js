@@ -3,6 +3,7 @@ import Header from '../Common/Header';
 
 import image from '../assets/img/banner.jpg';
 
+// Pages
 import Services from '../Common/Services';
 import About from '../Pages/About'
 import Gallery from '../Pages/Gallery';

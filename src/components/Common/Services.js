@@ -9,11 +9,11 @@ import img5 from '../assets/services/plumber.png';
 import img6 from '../assets/services/handyman.png';
 
 const services = [
-  {title: 'Log cabin construction', description: '', icon: img1},
+  {title: 'Log Cabin Construction', description: '', icon: img1},
   {title: 'Fencing', description: '', icon: img2},
+  {title: 'Plumbing & Heating Services', description: '', icon: img5},
   {title: 'Bricklayer', description: '', icon: img3},
   {title: 'Painting & Decorating Services', description: '', icon: img4},
-  {title: 'Plumbing and heating service', description: '', icon: img5},
   {title: 'Handyman  ', description: '', icon: img6}
 ];
 
@@ -25,7 +25,6 @@ class Services extends Component {
             <div className="row">
               <div className="col-lg-12 text-center">
                 <h2 className="section-heading text-uppercase">Services</h2>
-                <h3 className="section-subheading text-muted"></h3>
               </div>
             </div>
             <div className="row text-center">

@@ -9,8 +9,8 @@ class Contact extends Component {
 
           <div className="row">
             <div className="col-lg-12 text-center mb-5">
-                  <h2 className="section-heading text-uppercase">Contact</h2>
-                </div>
+              <h2 className="section-heading text-uppercase">Contact</h2>
+            </div>
             <div className="col-md-4 mb-3 mb-md-0">
               <div className="card py-4 h-100">
                 <div className="card-body text-center">

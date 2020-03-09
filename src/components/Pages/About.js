@@ -20,7 +20,7 @@ class About extends Component {
                         <span className="section-heading-upper"></span>
                         <span className="section-heading-lower">About Us</span>
                       </h2>
-                      <p>A reliable contractor with 25 years of experience within the construction industry.Available for small and larger projects as well offering free quotation services.An honest worker with attention to detail who priorities the clients' needs and delivers upon the agreed timelines.</p>
+                      <p>A reliable contractor with 25 years of experience within the construction industry. Available for small and larger projects as well offering free quotation services. An honest worker with attention to detail who priorities the clients' needs and delivers upon the agreed timelines.</p>
                       <p className="mb-0">The jobs completed are expected to be of the highest standards such as full building, plumbing and heating services, Plastering, Tiling, Kitchen/Bathroom Fitting.</p>
                     </div>
                   </div>

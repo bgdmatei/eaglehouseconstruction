@@ -7,7 +7,7 @@ class FeedbackPost extends Component {
               <div className="team-member">
                 <h4 className="mb-3">{this.props.name}</h4>
                 <p className="text-muted">{this.props.description}</p>
-                <i className="fas fa-star"></i><i className="fas fa-star"></i><i className="fas fa-star"></i><i className="fas fa-star"></i><i className="fas fa-star"></i>
+                <i className="fas fa-star"></i> <i className="fas fa-star"></i> <i className="fas fa-star"></i> <i className="fas fa-star"></i> <i className="fas fa-star"></i>
               </div>
             </div>
       )
