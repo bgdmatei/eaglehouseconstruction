@@ -12,7 +12,7 @@ class About extends Component {
           <section className="page-section" id="about">
             <div className="container">
               <div className="row">
-                <div className="col-lg-12 text-center">
+                <div className="col-lg-12 text-center mb-5">
                   <h2 className="section-heading text-uppercase">About</h2>
                 </div>
               </div>
