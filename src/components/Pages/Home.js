@@ -15,7 +15,8 @@ class Home extends Component {
       <div>
         <Header
             title="Looking to upgrade your home?"
-            subtitle="Welcome to Eagle House Construction"
+            subtitle1="Welcome to "
+            subtitle2="Eagle House Construction"
             buttonText="Get a free quote"
             link="/contact"
             showButton={true}
