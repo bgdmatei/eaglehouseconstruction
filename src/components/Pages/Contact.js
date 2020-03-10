@@ -28,7 +28,7 @@ class Contact extends Component {
                   <i className="fas fa-envelope text-primary mb-2"></i>
                   <h4 className="text-uppercase m-0">Email</h4>
                   <hr className="my-4" />
-                  <div className="medium text-black-50">
+                  <div className="medium email text-black-50">
                     <a href="mailto:eaglepaintingandhandyman@gmail.com">eaglepaintingandhandyman@gmail.com</a>
                   </div>
                 </div>
