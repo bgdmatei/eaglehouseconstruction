@@ -9,7 +9,7 @@ import Home from './components/Pages/Home';
 class App extends Component {
   render() {
     return (
-      <div>
+      <div className="page-wrap">
         <Router>
           <PageWrapper>
             <Route
