@@ -281,7 +281,7 @@ header.masthead .intro-text .intro-heading {
   }
 }
 
-@media (max-width: 768px) {
+@media (min-width: 375px) {
   .logo {
     height: 30px;
     width: 30px;
@@ -293,7 +293,15 @@ header.masthead .intro-text .intro-heading {
     right: 0;
     padding: 8px;
     margin-right: 8px;
-}
+  }
+
+  .navbar-brand {
+    margin-right: 5px;
+  }
+
+  .navbar {
+    padding: 5px 15px;
+  }
 
 }
 
