@@ -281,7 +281,7 @@ header.masthead .intro-text .intro-heading {
   }
 }
 
-@media (min-width: 375px) {
+@media (max-width: 375px) and (max-width : 768px){
   .logo {
     height: 30px;
     width: 30px;
