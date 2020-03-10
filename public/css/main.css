@@ -177,12 +177,8 @@ img::-moz-selection {
   color: #E8933D;
   text-shadow: 1px 0px #333333;
   font-family: 'Abril Fatface', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
-
 }
 
-#mainNav .navbar-brand.active, #mainNav .navbar-brand:active, #mainNav .navbar-brand:focus, #mainNav .navbar-brand:hover {
-
-}
 
 #mainNav .navbar-nav .nav-item .nav-link {
   text-transform: capitalize;
@@ -217,7 +213,7 @@ img::-moz-selection {
   #mainNav .navbar-brand {
     font-size: 1.75em;
     transition: all 0.3s;
-    letter-spacing: 1px;
+    letter-spacing: 2px;
     cursor: pointer;
   }
   #mainNav .navbar-nav .nav-item .nav-link {
