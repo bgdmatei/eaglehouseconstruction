@@ -11,11 +11,11 @@ class PageWrapper extends Component {
         <div>
           <nav className="navbar navbar-expand-lg navbar-dark fixed-top" id="mainNav" >
             <div className="container">
-              <img className="logo" src={logo} alt=""/>&nbsp;&nbsp;&nbsp;&nbsp;
+              <img className="logo" src={logo} alt=""/>
               <Scroll className="navbar-brand js-scroll-trigger" smooth={true} to="root">Eagle House Construction</Scroll>
               <button className="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
-                Menu
-                <i className="fas fa-bars"></i>
+
+                Menu <i className="fas fa-bars"></i>
               </button>
               <div className="collapse navbar-collapse" id="navbarResponsive">
                 <ul className="navbar-nav text-uppercase ml-auto" >
