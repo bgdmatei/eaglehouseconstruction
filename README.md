@@ -1,17 +1,18 @@
 ## Eagle House Construction
 
+Website built for a local construction company. 
 
-## Available Scripts
+## Stack
 
-In the project directory, you can run:
+* React
+* Bootstrap
+* CSS
 
-### `yarn start`
+## Project setup
+Set up
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+`yarn install`
 
+Compiles and minifies for production
 
-### `yarn build`
-
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+`yarn build`
