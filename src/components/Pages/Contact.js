@@ -1,12 +1,10 @@
-import React, {Component} from 'react';
+import React, { Component } from "react";
 
 class Contact extends Component {
-  render(){
-    return(
+  render() {
+    return (
       <section className="page-section bg-black" id="contact">
-
         <div className="container">
-
           <div className="row">
             <div className="col-lg-12 text-center mb-5">
               <h2 className="section-heading text-uppercase">Contact</h2>
@@ -17,7 +15,9 @@ class Contact extends Component {
                   <i className="fas fa-map-marked-alt text-primary mb-2"></i>
                   <h4 className="text-uppercase m-0">Address</h4>
                   <hr className="my-4" />
-                  <div className="medium text-black-50">4 Goaring Road, London, United Kingdom</div>
+                  <div className="medium text-black-50">
+                    Stuart Crescent - London - N22 5NN
+                  </div>
                 </div>
               </div>
             </div>
@@ -29,7 +29,9 @@ class Contact extends Component {
                   <h4 className="text-uppercase m-0">Email</h4>
                   <hr className="my-4" />
                   <div className="medium email text-black-50">
-                    <a href="mailto:eaglepaintingandhandyman@gmail.com">eaglepaintingandhandyman@gmail.com</a>
+                    <a href="mailto:eaglepaintingandhandyman@gmail.com">
+                      eaglepaintingandhandyman@gmail.com
+                    </a>
                   </div>
                 </div>
               </div>
@@ -41,14 +43,14 @@ class Contact extends Component {
                   <i className="fas fa-mobile-alt text-primary mb-2"></i>
                   <h4 className="text-uppercase m-0">Phone</h4>
                   <hr className="my-4" />
-                  <div className="medium text-black-50">+44 7543 728 591</div>
+                  <div className="medium text-black-50">+44 7438 276 914</div>
                 </div>
               </div>
             </div>
           </div>
         </div>
       </section>
-      )
+    );
   }
 }
 
