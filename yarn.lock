@@ -1159,10 +1159,10 @@
   resolved "https://registry.npmjs.org/@hapi/hoek/-/hoek-8.5.1.tgz"
   integrity sha512-yN7kbciD87WzLGc5539Tn0sApjyiGHAJgKvG9W8C7O+6c7qmoQMfVs0W4bX17eqz6C78QJqqFrtgdK5EWf6Qow==
 
-"@hapi/hoek@9.1.0":
-  version "9.1.0"
-  resolved "https://registry.npmjs.org/@hapi/hoek/-/hoek-9.1.0.tgz"
-  integrity sha512-i9YbZPN3QgfighY/1X1Pu118VUz2Fmmhd6b2n0/O8YVgGGfw0FbUYoA97k7FkpGJ+pLCFEDLUmAPPV4D1kpeFw==
+"@hapi/hoek@9.2.0":
+  version "9.2.0"
+  resolved "https://registry.npmjs.org/@hapi/hoek/-/hoek-9.2.0.tgz"
+  integrity sha512-sqKVVVOe5ivCaXDWivIJYVSaEgdQK9ul7a4Kity5Iw7u9+wBAPbX1RMSnLLmp7O4Vzj0WOWwMAJsTL00xwaNug==
 
 "@hapi/joi@^15.0.0":
   version "15.1.1"
